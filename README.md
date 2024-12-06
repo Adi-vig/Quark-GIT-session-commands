@@ -11,6 +11,7 @@ git clone <https link to your repo>
 code <name-of-your-repo>
 ```
 
+NOTE: here onwards we will only use VSCODE integrated Terminal and all the commands are to be used in VSCODE integrated terminal
 
 3. You should see your ```README.md```
 4. Modify the file and save it.
@@ -18,6 +19,8 @@ code <name-of-your-repo>
 ## 5. Go to terminal type: This step is Local
 
 you should see the modified file and not added to staging area
+
+Type in terminal
 ```bash
 git status
 ```
@@ -63,17 +66,17 @@ Authorize yourself password/ 2FA
 5. Scroll down and click on -> Generate token
 6. Click on copy and copy the token 
 
+7. Go back to VScode terminal:
 ```bash 
 git push 
 ```
 
 Wait a few seconds a new window will open
 
-Select authorization mode
+Select authorization mode from the window
 ```
     1) browser/device
     2) Token 
-
 ```
 
 Select token -> Paste your token press sign in
