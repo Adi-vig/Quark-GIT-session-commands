@@ -101,8 +101,9 @@ git remote -v
 
 ## What else needs to be covered:
 
-- branching (branch merge)
-- restore, reset 
+- pull, fetch
+- branching (branch , merge,  --set-upstream etc)
+- restore, reset (soft, hard)
 - reflog
 - gitk (useful for seeing commits and branch tree)
 - stash (advanced)
