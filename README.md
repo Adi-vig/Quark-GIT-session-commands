@@ -96,7 +96,7 @@ git remote -v
 
 
 
-# Further Readings:
+# Further Readings (MUST READ):
 - [Link for cheat sheet for 40 commands ](https://dev.to/ruppysuppy/git-cheat-sheet-with-40-commands-concepts-1m26)
 
 ## What else needs to be covered:
